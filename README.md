@@ -12,15 +12,19 @@ The **Seq2KG** system is available here: https://github.com/Michael-Stewart-Webd
 ### Chapter 5: Lexical Normalisation
 
 The **Targeted model** is available at https://github.com/Michael-Stewart-Webdev/lexnorm.
+
 The **General model** is available at https://github.com/Michael-Stewart-Webdev/pytorch-lexnorm.
+
 The **US Accidents dataset** is available at https://github.com/Michael-Stewart-Webdev/us-accidents-dataset.
 
 ### Chapter 6: Aquila: An Interactive Web-based Toolset for Knowledge Discovery from Short Text
 
 Aquila is available at https://github.com/Michael-Stewart-Webdev/aquila.
+
 A live demo of Aquila is currently running at https://nlp-tlp.org/aquila.
 
 ### Chapter 7: Redcoat: A Collaborative Annotation Tool for Hierarchical Entity Typing
 
 Redcoat is available at https://github.com/Michael-Stewart-Webdev/redcoat.
+
 A live demo of Redcoat is currently running at https://nlp-tlp.org/redcoat.
